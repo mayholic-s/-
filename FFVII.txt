@@ -38,6 +38,7 @@ Cid Highwind = 希德 海温德
 Shera = 谢拉
 Shinra = 神罗
 Jenova = 杰诺瓦
+AVALANCHE = 雪崩
 gold saucer = 金碟游乐场
 Turks = 塔克斯
 SOLDIER = 神罗特种兵
